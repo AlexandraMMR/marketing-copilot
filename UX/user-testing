@@ -1,1 +1,45 @@
+TO BE UPDATED
+
+# Testing Plan
+
+The testing plan will help validate the Marketing Copilot, a digital solution that acts as a "GPS for the inexperienced marketer" by bridging the gap between strategic planning (the Recipe Book) and content execution (the AI Engine).
+
+## 1. Heuristic Evaluation: Cognitive Load and Progressive Disclosure
+• **Objective:** Verify that the interface reduces cognitive overload for personas like Sarah, who are easily intimidated by marketing jargon.
+• **Primary Heuristics to evaluate:**
+    ◦ Progressive disclosure: Ensure that the interface does not show all 30+ steps of a recipe at once; instead, it should show only the current "Phase" and hide future tasks behind an "Upcoming" accordion.
+    ◦ Clarity and language: Check for the absence of jargon (e.g., "TOFU," "ROI," "SEO") and the presence of clear, jargon-free tooltips that explain marketing terms like "Hooks".
+    ◦ Status visibility: Validate that the dashboard provides a clear, gamified progress bar to give users a sense of accomplishment.
+• UX Track Task: Review the available recipes to ensure steps are broken into micro-tasks taking less than 30 minutes each.
+
+## 2. Unmoderated Usability Testing (Maze)
+• Objective: Track Task Completion Rates and the primary metric of Time-to-Content, targeting a workflow under 10 minutes.
+• Target Persona: Alex (The Indie Hacker), who values speed and efficiency.
+• Test Scenario "The Pre-Launch Panic":
+    ◦ Task 1: Log in and identify the "Next Step" spotlight task (e.g., "Generate 3 Social Hooks").
+    ◦ Task 2: Click through to the Recipe detail and select "Draft Now".
+    ◦ Task 3: Input a "Core Message" (e.g., "CodeFlow saves team leads 2 hours a week").
+    ◦ Task 4: Review the three generated drafts and click "Copy to Clipboard".
+• Quantitative Metrics:
+    ◦ Success Rate: Percentage of users who complete the flow without navigating to the "Help" section.
+    ◦ Time-to-Publish: Time elapsed from app entry to the "Copied!" toast notification.
+
+## 3. Moderated User Interviews
+• Objective: Deep-dive into whether the AI drafts feel authentic and if the "Human-in-the-Loop" prompts effectively capture the user’s voice.
+• Participants: 2–4 real participants representing the core personas (Alex, Sarah, and Dr. Elena) [Prompt context, 890].
+• Discussion Topics:
+    ◦ Voice Guardrails: Do the generated drafts for Sarah feel "Warm and community-focused" or "robotic"?.
+    ◦ Knowledge Atomization: (For Dr. Elena) Does the extraction of "insights" from long-form text accurately reflect her expertise?.
+    ◦ Strategic Judgment: Does the user feel they are still "owning" the strategy while delegating the "production grind" to the AI?.
+    ◦ Pain Points: Explore any "emotional barriers" that still exist despite the structured checklist.
+
+## 4. Surveys
+• Objective: Quantify how much the system demystifies the marketing process by measuring Confidence Scores.
+• Format: Distribute to 10+ participants pre- and post-interaction with the tool [Prompt context, 449].
+• Survey Items (1–5 Likert Scale):
+    ◦ "I feel anxious about what I should post on social media today".
+    ◦ "I know exactly what my next marketing step should be".
+    ◦ "I trust that this content sounds like a professional version of me".
+    ◦ "I find marketing terminology (like 'leads' or 'funnels') confusing".
+• Success Indicator: A targeted 80% of users should report feeling "Less Anxious" after completing their first 7-day recipe.
 
