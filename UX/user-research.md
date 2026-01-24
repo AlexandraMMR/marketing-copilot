@@ -11,7 +11,7 @@ How might we create an approachable, step-by-step system that allows a product b
 Our research identifies three distinct customer personas:
 1. Alex (The Solo Builder): A developer who views marketing as a distraction. He needs speed, automation, and checklists to spend less than 5 hours a week on promotion.
 2. Sarah (The Small Business Transitioner): A traditional owner moving digital. She suffers from jargon overload (SEO, ROI) and needs a structured system to build brand confidence.
-3. Dr. Elena (The Subject Matter Expert): A professional with deep knowledge but no design skill. She needs to "atomize" long-form expertise into engaging, high-authority social media visuals.
+3. Dr. Elena (The Subject Matter Expert): A professional with deep knowledge but no design skill. She needs to "atomize" long-form expertise into engaging, high-authority social media posts.
 
 ## Scenarios
 
@@ -24,14 +24,14 @@ Our research identifies three distinct customer personas:
 ### Scenario B: The Digital Transition (Persona: Sarah, The Small Business Transitioner)
  * **Context**: Sarah owns a local boutique and is moving her sales online for the first time. She is intimidated by marketing jargon like "SEO" and "Conversion," and she worries that her digital presence will feel "inauthentic" or stiff compared to her in-person customer service.
  * **Action**: Sarah opens the app and selects the "First Online Sale" Recipe. She sees a checklist that breaks down her digital launch into simple steps, starting with today’s task: "Draft a Multi-Channel Launch Announcement."
- * **Flow**: She clicks the task to open the Content Conversion Tool. She selects her preferred "Warm & Community-focused" brand voice and enters her core message about her new floral spring collection. The AI generates a heartfelt Facebook post for her local fans and a professional email header for her newsletter.
+ * **Flow**: She clicks the task to open the Content Conversion Tool. She selects her preferred "Warm & Community-focused" brand voice and enters her core message about her new floral spring collection. The AI generates a heartfelt Facebook post for her local fans and a professional email update for her newsletter.
  * Outcome: Within 20 minutes, Sarah has her entire week of launch content ready. Her confidence grows because the tool used plain language and kept her authentic voice, allowing her to focus on fulfilling orders instead of decoding marketing terminology.
 
 ### Scenario C: The Knowledge Atomization (Persona: Dr. Elena, The SME)
  * **Context**: Elena has a 40-page whitepaper on executive leadership. She knows it contains gold, but she doesn't know how to make it "social-media friendly" or visually appealing.
- * **Action**: Elena selects the "Authority Builder" Recipe. The system prompts her to upload her text or paste a link.
- * **Flow**: The Execution Engine extracts 5 key insights. Elena selects "Generate Visual Carousel." The tool applies her brand colors and fonts to 5 slides automatically.
- * **Outcome**: Elena has a high-authority LinkedIn carousel that looks like it was made by a designer, maintaining her professional reputation with minimal effort.
+ * **Action**: Elena selects the "Authority Builder" Recipe. The system prompts her to add her text.
+ * **Flow**: The Execution Engine extracts 5 key insights. Elena selects generate Linkedin post, then goes to PostMagic to brainstorm visual ideas for the post, maybe a carousel.
+ * **Outcome**: Elena has a high-authority LinkedIn carousel and post that looks like it was made by an expert, maintaining her professional reputation with minimal effort.
 
 ## Stories
 
