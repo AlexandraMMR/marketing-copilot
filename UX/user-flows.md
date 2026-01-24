@@ -9,6 +9,7 @@ The IA is designed around a "Strategy-to-Execution" pipeline.
 It uses Progressive Disclosure to ensure that users like Sarah (the SMB owner) aren't overwhelmed by jargon, while allowing users like Alex (the developer) to move quickly.
 
 graph TD
+
     A[App Landing Page / Login] --> B{Get Started}
     
     B --> C[Next Action Card]
@@ -33,6 +34,7 @@ Key Content Elements:
 This flow represents the "Happy Path" for all three personas. It starts with a strategic goal and ends with a finished, ready-to-post piece of content.
 
 sequenceDiagram
+
     participant User
     participant Dashboard
     participant RecipeBook
