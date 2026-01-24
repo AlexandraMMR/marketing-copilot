@@ -19,4 +19,4 @@ The following UX research and design documentation supports the development of t
 *   **[Product Requirements Document (PRD)](/UX/product-requirements.md)**
 *   **[Information Architecture and User Flows](/UX/info-architecture.md)**
 *   **[Prototype](/UX/prototype.md)**
-*   **[User Testing Plan and Results](/UX/user-research.md)**
+*   **[User Testing Plan and Results](/UX/user-testing)**
