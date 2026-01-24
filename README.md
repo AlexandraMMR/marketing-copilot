@@ -43,14 +43,13 @@ The system is built on two core pillars to move users from **Strategy to Executi
 ---
 
 ## 📅 MVP Roadmap (10-Week Plan)
-| Phase | Timeline | Primary Objective |
-| :--- | :--- | :--- |
-| **1: Foundation** | Weeks 1–3 | Build Recipe Database and finalize UI/UX high-fidelity designs. |
-| **2: The Engine** | Weeks 4–7 | AI Integration and prompt engineering for specific persona voices. |
-| **3: Integration** | Weeks 8–9 | Connecting Recipe steps directly to the AI Engine "Draft Now" button. |
-| **4: Launch** | Week 10 | Bug bashing, Heuristic Evaluation, Testing and final deployment. |
+| Phase | Timeline | Focus |
+|---|---|---|
+| Phase 1: Foundation | Weeks 1–3 | Build Recipe Database, UX High-Fidelity designs, and Persona validation. |
+| Phase 2: Content Engine | Weeks 4–7 | AI Integration (LLMs), Prompt Engineering, and Text-only conversion. |
+| Phase 3: Integration | Weeks 8–9 | Connecting Recipes to the Engine; implementing visual templates for the SME persona. |
+| Phase 4: Launch | Week 10 | Bug bashing, user testing, and final deployment. |
 
----
 
 ## 📈 Success Metrics
 *   **Time-to-Content:** Reduce the average time from starting a task to "Copying Content" to **under 10 minutes**.
