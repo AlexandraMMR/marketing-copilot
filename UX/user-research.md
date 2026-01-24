@@ -35,4 +35,39 @@ Our research identifies three distinct customer personas:
 
 ## Stories
 
+ User Stories and Acceptance Criteria
+## Theme 1: Strategy and Guidance (The Recipe Book)
+User Story 1 (RB-1):
+> As a builder with no marketing background, I want to select from a library of goal-oriented "Recipes," so that I don't have to guess what my marketing strategy should be.
+> 
+ * Acceptance Criteria:
+   * Users can browse recipes categorized by goal (e.g., Launch, Growth, Authority).
+   * Each recipe must display a difficulty level and estimated total time commitment.
+User Story 2 (RB-2):
+> As a busy founder, I want to see each recipe broken down into tasks under 30 minutes, so that I can make progress during small gaps in my schedule.
+> 
+ * Acceptance Criteria:
+   * Tasks must be sequential and locked/unlocked based on progress.
+   * Each task must have a "Why this matters" tooltip to educate the user.
 
+## Theme 2: Content Generation (The Content Engine)
+User Story 3 (CC-1):
+> As a non-writer, I want to input a single core message and receive multiple platform-specific drafts, so that I can overcome "The Blank Page" fear.
+> 
+ * Acceptance Criteria:
+   * Input field must support at least 500 characters.
+   * Output must include options for Twitter (short/punchy), LinkedIn (professional/long-form), and Email (direct).
+User Story 4 (CC-3):
+> As a professional expert, I want the AI to provide "Human-in-the-loop" prompts, so that I can add my own authentic stories and avoid sounding like a bot.
+> 
+ * Acceptance Criteria:
+   * Generated text should include placeholders like [Insert personal anecdote here] or [Local Example].
+   * Inline editing must be available before copying the text.
+
+## Theme 3: Motivation and Retention
+User Story 5 (G-1):
+> As a user prone to procrastination, I want to see a gamified progress bar of my "Marketing Journey," so that I feel a sense of accomplishment and stay motivated.
+> 
+ * Acceptance Criteria:
+   * The dashboard must display a percentage of completion for the active recipe.
+   * Users receive a visual "reward" (e.g., badge or confetti) upon recipe completion.
