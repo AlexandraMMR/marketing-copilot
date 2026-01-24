@@ -34,7 +34,7 @@ FR1: The Marketing Recipe Book
  * Prerequisite Tracking: Ensures users have "Ingredients" (e.g., core message, target audience) before starting.
 FR2: The Content Conversion Tool for text and PostMagic for visuals (The Engine)
  * Multi-Format Generation: Converts a single "Core Message" into tweets, LinkedIn posts, or emails.
- * Visual Asset Creator (New): A specialized module for the SME persona to generate branded quote cards and simple carousels from text inputs.
+ * Visual Asset or Prompt Creator (New): A specialized module for the SME persona to generate either prompts or visuals (if feasible) from inputs.
  * Human-in-the-Loop Editing: AI provides "structured prompts" (e.g., [Insert Personal Anecdote Here]) to ensure the output doesn't sound robotic.
 
 ## 5. User Journey and Wireframes
