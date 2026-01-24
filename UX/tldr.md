@@ -14,9 +14,9 @@ The **Marketing Copilot** acts as a **"GPS for the inexperienced marketer,"** sp
 ### **UX Research Link Tree**
 The following UX research and design documentation supports the development of the Marketing Copilot MVP:
 
-*   **[Problem Statement Exploration](/main/UX/problem-exploration.md)**
-*   **[Personas, Scenarios, Stories](/main/UX/user-research.md)**: Detailed profiles for Alex, Sarah, and Dr. Elena.
-*   **[Product Requirements Document (PRD)](/main/UX/product-requirements.md)**
-*   **[Information Architecture and User Flows](/main/UX/info-architecture.md)**
-*   **[Prototype](/main/UX/prototype.md)**
-*   **[User Testing Plan and Results](/main/UX/user-research.md)**
+*   **[Problem Statement Exploration](/UX/problem-exploration.md)**
+*   **[Personas, Scenarios, Stories](/UX/user-research.md)**: Detailed profiles for Alex, Sarah, and Dr. Elena.
+*   **[Product Requirements Document (PRD)](/UX/product-requirements.md)**
+*   **[Information Architecture and User Flows](/UX/info-architecture.md)**
+*   **[Prototype](/UX/prototype.md)**
+*   **[User Testing Plan and Results](/UX/user-research.md)**
