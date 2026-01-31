@@ -4,7 +4,6 @@
 To design an effective pre- and post-interaction questionnaire, we must focus on psychometric consistency. 
 By using a Likert scale (typically 1–5 or 1–7), we can quantify subjective feelings like "stress" and "confidence" into actionable data points.
 
-As a user researcher, I recommend administering 
 • Objective: Quantify how much the system demystifies the marketing process by measuring Confidence Scores.
 • Format: Distribute to 10+ participants these 5 questions twice: once immediately before onboarding (to capture the baseline) and once after the user completes their first Recipe task (to measure the "lift"), shared on TechLabs Slack. 
 • Success Indicator: A targeted 80% of users should report feeling "Less Anxious" after completing their first 7-day recipe.
