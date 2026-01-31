@@ -1,4 +1,26 @@
-TO BE UPDATED
+# Testing Results
+
+## 4. Surveys
+To design an effective pre- and post-interaction questionnaire, we must focus on psychometric consistency. 
+By using a Likert scale (typically 1–5 or 1–7), we can quantify subjective feelings like "stress" and "confidence" into actionable data points.
+
+As a user researcher, I recommend administering 
+• Objective: Quantify how much the system demystifies the marketing process by measuring Confidence Scores.
+• Format: Distribute to 10+ participants these 5 questions twice: once immediately before onboarding (to capture the baseline) and once after the user completes their first Recipe task (to measure the "lift"), shared on TechLabs Slack. 
+• Success Indicator: A targeted 80% of users should report feeling "Less Anxious" after completing their first 7-day recipe.
+• Survey Items (1–5 Likert Scale):
+    * Clarity of Direction: "I feel certain about exactly which marketing task/s I should prioritize right now to reach my business or professional goals." Goal: Measures the effectiveness of the Recipe Book in reducing decision paralysis.
+    * Creative Friction: "I find it easy to translate core features or activities into engaging messages for different social platforms." Goal: Measures the "Blank Page" pain point and the perceived value of the Content Engine.
+    * Emotional State (Stress Management): "I feel calm and in control when I think about my upcoming marketing requirements or activities." Goal: Quantifies the stress levels associated with the "Pre-Launch Panic."
+    * Time Competency: "I am confident that I can produce professional-quality marketing materials in under 30 minutes."Goal: Measures the perception of efficiency and the "GPS" vision of the product.
+    * Outcome Agency: "I believe my current marketing actions will directly result in measurable growth for my business or professional growth." Goal: Measures "Sarah's" ROI anxiety and "Alex's" need for a repeatable process.
+* Pre-interaction with Marketing Copilot survey details:
+    * Survey Link: https://forms.gle/LGzqeABsyXGsdWK58 
+    * Survey Responses: Pending completion. 
+* Post-interaction with Marketing Copilot survey details:
+    * Survey Link: 
+    * Survey Responses: Pending completion. 
+
 
 # Testing Plan
 
@@ -26,7 +48,7 @@ The testing plan will help validate the Marketing Copilot, a digital solution th
 
 ## 3. Moderated User Interviews
 • Objective: Deep-dive into whether the AI drafts feel authentic and if the "Human-in-the-Loop" prompts effectively capture the user’s voice.
-• Participants: 2–4 real participants representing the core personas (Alex, Sarah, and Dr. Elena) [Prompt context, 890].
+• Participants: 2–4 real participants representing the core personas (Alex, Sarah, and Dr. Elena).
 • Discussion Topics:
     ◦ Voice Guardrails: Do the generated drafts for Sarah feel "Warm and community-focused" or "robotic"?.
     ◦ Knowledge Atomization: (For Dr. Elena) Does the extraction of "insights" from long-form text accurately reflect her expertise?.
@@ -35,11 +57,7 @@ The testing plan will help validate the Marketing Copilot, a digital solution th
 
 ## 4. Surveys
 • Objective: Quantify how much the system demystifies the marketing process by measuring Confidence Scores.
-• Format: Distribute to 10+ participants pre- and post-interaction with the tool [Prompt context, 449].
-• Survey Items (1–5 Likert Scale):
-    ◦ "I feel anxious about what I should post on social media today".
-    ◦ "I know exactly what my next marketing step should be".
-    ◦ "I trust that this content sounds like a professional version of me".
-    ◦ "I find marketing terminology (like 'leads' or 'funnels') confusing".
+• Format: Distribute to 10+ participants pre- and post-interaction with the tool.
+• Survey Items (1–5 Likert Scale).
 • Success Indicator: A targeted 80% of users should report feeling "Less Anxious" after completing their first 7-day recipe.
 
